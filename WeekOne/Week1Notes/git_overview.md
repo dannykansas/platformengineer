@@ -21,11 +21,12 @@ Core traits include:
     - each branch should represent one of:
 	- feature or "topic" of work
 	- one of several statically-defined release branches
-		- "qa"
-		- "stage"
-		- "master"
+		- `qa`
+		- `stage`
+		- `master`
 	- a hotfix
-    - close control of feature branches keeps `origin/master` as the sole location for safe, reliable, and reviewed commits
+    - tight control of feature branches 
+    - keep `origin/master` as the sole location for safe, reliable, and reviewed commits
     - therefore, feature branches... 
 	- are branched from master
 	- are merged back into qa
