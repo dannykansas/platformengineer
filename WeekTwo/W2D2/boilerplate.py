@@ -1,11 +1,11 @@
 #!/usr/bin/python
 
 '''
-MindMixer Platform Engineer Training - Part 1
+Platform Engineer Training - Part 1
 
 Boilerplate Formatting Functions
 
-Written by Dan Fowler, technically, but primarily lifted from PEP-257:
+Written by Dan Fowler, technically, but significantly lifted from PEP-257:
 https://www.python.org/dev/peps/pep-0257/#handling-docstring-indentation
 
 '''
