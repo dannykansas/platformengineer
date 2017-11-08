@@ -10,7 +10,7 @@ This is a *very* simplified, basic repo intended to help introduce git, Vagrant,
 - In-class exercises
 
 ## Initial Setup:
-- From your Terminal.app (or [iTerm2](http://iterm2.com/), preferably), run "git clone https://github.com/dannykansas/platformengineer.git"
+- From your Terminal.app run `git clone https://github.com/dannykansas/platformengineer.git`
 - `cd` to the new `platformengineer` directory
 - Run a `vagrant up`
 - vagrant will provision your environment, wait...
