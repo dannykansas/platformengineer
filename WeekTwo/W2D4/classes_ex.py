@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 '''
-MindMixer Platform Engineer Training - Part 1
+Platform Engineer Training - Part 1
 W2D4 - all about classes 
 
 Exercises related to: classes, attributes and methods
