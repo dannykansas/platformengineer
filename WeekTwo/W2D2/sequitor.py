@@ -6,7 +6,7 @@ W2D2 - flow control, sequences, and iterables
 
 Exercises related to: Sequences and Iterables
 
-Pro-tip: run a specific function from the command line directly like so:
+TIP: run a specific function from the command line directly like so:
 python -c 'import this_filename; my_function(a_parameter,b_parameter)'
 (you must be in the directory where "this_filename.py" resides)
 
