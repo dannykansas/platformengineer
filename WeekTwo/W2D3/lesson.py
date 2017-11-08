@@ -1,10 +1,10 @@
 #!/usr/bin/python
 
 '''
-MindMixer Platform Engineer Training - Part 1
+Platform Engineer Training - Part 1
 W2D3 - functions, arguments, and decorators
 
-Pro-tip: run a specific function from the command line directly like so:
+Tip: run a specific function from the command line directly like so:
 python -c 'import this_filename; my_function(a_parameter,b_parameter)'
 (you must be in the directory where "this_filename.py" resides)
 
