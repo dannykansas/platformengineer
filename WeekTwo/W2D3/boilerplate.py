@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 '''
-MindMixer Platform Engineer Training - Part 1
+Platform Engineer Training - Part 1
 
 Boilerplate Formatting Functions
 
