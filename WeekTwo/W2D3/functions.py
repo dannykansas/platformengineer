@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 '''
-MindMixer Platform Engineer Training - Part 1
+Platform Engineer Training - Part 1
 W2D2 - functions, arguments, and decorators
 
 Exercises related to: functions and arguments
